@@ -18,8 +18,8 @@ a {
 .btn {
   display: inline-block;
   margin-bottom: 1rem;
-  color: rgba(255, 255, 255, 0.7);
-  background-color: rgba(255, 255, 255, 0.08);
+  color: #FFC5D3;
+  background-color: #FFC5D3;
   border-color: rgba(255, 255, 255, 0.2);
   border-style: solid;
   border-width: 1px;
@@ -29,7 +29,7 @@ a {
     margin-left: 1rem; }
 
 .btn:hover {
-  color: rgba(255, 255, 255, 0.8);
+  color: #F9C623;
   text-decoration: none;
   background-color: rgba(255, 255, 255, 0.2);
   border-color: rgba(255, 255, 255, 0.3); }
