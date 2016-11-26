@@ -34,6 +34,30 @@ a {
   background-color: rgba(255, 255, 255, 0.2);
   border-color: rgba(255, 255, 255, 0.3); }
 
+.buttonOMG {
+	border-radius: 100px;
+	border: thin solid #F0E020;
+	padding: 20px;
+	background-color: #F8F09;
+	font-family: "Segoe UI", Tahoma, Geneva, Verdana, sans-serif;
+	font-weight: bold;
+	color: #663300;
+	width: 80px;
+}
+
+.buttonOMG:hover {
+	border: thin solid #FFCC00;
+	background-color: #FCF9D6;
+	color: pink;
+	cursor: pointer;
+}
+.buttonOMG:active {
+	border: thin solid #99CC00;
+	background-color: #black;
+	color: #F8F09;
+	cursor: pointer;
+}
+
 @media screen and (min-width: 64em) {
   .btn {
     padding: 0.75rem 1rem; } }
