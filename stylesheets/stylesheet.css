@@ -1,5 +1,4 @@
-* {
-  box-sizing: border-box; }
+* {box-sizing: border-box; }
 
 body {
   padding: 0;
@@ -15,11 +14,7 @@ a {
   a:hover {
     text-decoration: underline; }
 
-.failed {
-color: 	#b27474;
-}
-
-
+.failed {color: #b27474;}
 .fixed01{
   position: fixed;
   bottom: 0;
@@ -35,9 +30,6 @@ border: 3px solid #FDC72F;
   color: #0000;
   background-color: rgba(255, 255, 255, 0.08);
 }
-
-  
-
 
 .btn {
   display: inline-block;
@@ -57,8 +49,6 @@ border: 3px solid #FDC72F;
   text-decoration: none;
   background-color: rgba(255, 255, 255, 0.2);
   border-color: rgba(255, 255, 255, 0.3); }
-
-
 .buttonOMG {
 	border-radius: 100px;
 	border: thin solid #F0E020;
@@ -69,7 +59,6 @@ border: 3px solid #FDC72F;
 	color: #663300;
 	width: 80px;
 }
-
 .buttonOMG:hover {
 	border: thin solid #FFCC00;
 	background-color: #FCF9D6;
@@ -82,7 +71,6 @@ border: 3px solid #FDC72F;
 	color: #F8F09;
 	cursor: pointer;
 }
-
 @media screen and (min-width: 64em) {
   .btn {
     padding: 0.75rem 1rem; } }
@@ -263,37 +251,29 @@ border: 3px solid #FDC72F;
     padding: 2rem 6rem;
     margin: 0 auto;
     font-size: 1.1rem; } }
-
 @media screen and (min-width: 42em) and (max-width: 64em) {
   .main-content {
     padding: 2rem 4rem;
     font-size: 1.1rem; } }
-
 @media screen and (max-width: 42em) {
   .main-content {
     padding: 2rem 1rem;
     font-size: 1rem; } }
-
 .site-footer {
   padding-top: 2rem;
   margin-top: 2rem;
   border-top: solid 1px #eff0f1; }
-
 .site-footer-owner {
   display: block;
   font-weight: bold; }
-
 .site-footer-credits {
   color: #819198; }
-
 @media screen and (min-width: 64em) {
   .site-footer {
     font-size: 1rem; } }
-
 @media screen and (min-width: 42em) and (max-width: 64em) {
   .site-footer {
     font-size: 1rem; } }
-
 @media screen and (max-width: 42em) {
   .site-footer {
     font-size: 0.9rem; } }
