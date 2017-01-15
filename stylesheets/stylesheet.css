@@ -19,6 +19,26 @@ a {
 color: 	#b27474;
 }
 
+
+.fixed01{
+  position: fixed;
+  bottom: 0;
+  right: 0;
+  width: 150px;
+  height: 100px;
+  background-color: #ffeeee;
+border: 3px solid #FDC72F;
+  border-radius: 20px;
+}
+
+.CHECKBOX{
+  color: #0000;
+  background-color: rgba(255, 255, 255, 0.08);
+}
+
+  
+
+
 .btn {
   display: inline-block;
   margin-bottom: 1rem;
