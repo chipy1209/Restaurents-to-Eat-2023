@@ -264,10 +264,9 @@ border: 3px solid #FDC72F;
   margin-top: 2rem;
   border-top: solid 1px #eff0f1; }
 .site-footer-owner {
+  color: #e8a0b4;
   display: block;
   font-weight: bold; }
-.site-footer-credits {
-  color: #e8a0b4; }
 @media screen and (min-width: 64em) {
   .site-footer {
     font-size: 1rem; } }
