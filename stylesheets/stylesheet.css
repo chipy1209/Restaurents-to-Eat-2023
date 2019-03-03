@@ -22,7 +22,7 @@ a:hover {
 .failed {
   color: #b27474;
 }
-.fixed01 {
+.corner-highlighter {
   position: fixed;
   bottom: 0;
   right: 0;
